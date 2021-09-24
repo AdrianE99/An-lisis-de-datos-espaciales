@@ -6,6 +6,7 @@
 En agricultura conocer la altimetría de las unidades productivas constituye un elemento de trabajo esencial para tomar
 decisiones. El análisis exploratorio de los datos espaciales podría ayudar a definir estrategias de manejo en cuanto a
 las necesidades agronómicas del cultivo de vid.
+
 Alcances:
 - Se cuentan con datos de altura de GPS registrados en una grilla regularmente espaciada de una finca
 vitivinícola de 90 ha ubicada en el departamento Sarmiento, al sur de la Provincia de San Juan.
