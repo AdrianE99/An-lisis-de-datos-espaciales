@@ -9,6 +9,7 @@ las necesidades agronómicas del cultivo de vid.
 Alcances:
 - Se cuentan con datos de altura de GPS registrados en una grilla regularmente espaciada de una finca
 vitivinícola de 90 ha ubicada en el departamento Sarmiento, al sur de la Provincia de San Juan.
+
 Limitaciones:
 - Pocos registros que podrían dificultar el análisis de la información
 
