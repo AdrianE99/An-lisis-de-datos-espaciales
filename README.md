@@ -1,8 +1,8 @@
 
-#Interpolación de Kriging para Altura Ortométrica
+# Interpolación de Kriging para Altura Ortométrica
 ------------------
 
-#Introducción
+# Introducción
 En agricultura conocer la altimetría de las unidades productivas constituye un elemento de trabajo esencial para tomar
 decisiones. El análisis exploratorio de los datos espaciales podría ayudar a definir estrategias de manejo en cuanto a
 las necesidades agronómicas del cultivo de vid.
@@ -12,10 +12,10 @@ vitivinícola de 90 ha ubicada en el departamento Sarmiento, al sur de la Provin
 Limitaciones:
 - Pocos registros que podrían dificultar el análisis de la información
 
-#Objetivo general
+# Objetivo general
 Generar un modelo digital de elevación a partir de alturas ortométricas obtenidas a campo.
 
-#Objetivos específicos
+# Objetivos específicos
 
 - Análisis descriptivo de la variable altura ortométrica (medidas de resumen, tablas y gráficos).
 - Probar la continuidad y el cumplimientos de los supuestos de normalidad para la variable altura ortométrica.
