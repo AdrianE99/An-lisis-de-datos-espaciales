@@ -17,9 +17,9 @@ Generar un modelo digital de elevación a partir de alturas ortométricas obteni
 
 #Objetivos específicos
 
-● Análisis descriptivo de la variable altura ortométrica (medidas de resumen, tablas y gráficos).
-● Probar la continuidad y el cumplimientos de los supuestos de normalidad para la variable altura ortométrica.
-● Conocer la estructura de autocorrelación espacial de la variable altura ortométrica
-● Ajustar un modelo de variograma teórico al variograma experimental de la variable altura ortométrica.
-● Predecir los valores de altura ortométrica de todo el área de la finca a partir del método de interpolación de
+- Análisis descriptivo de la variable altura ortométrica (medidas de resumen, tablas y gráficos).
+- Probar la continuidad y el cumplimientos de los supuestos de normalidad para la variable altura ortométrica.
+- Conocer la estructura de autocorrelación espacial de la variable altura ortométrica
+- Ajustar un modelo de variograma teórico al variograma experimental de la variable altura ortométrica.
+- Predecir los valores de altura ortométrica de todo el área de la finca a partir del método de interpolación de
 Kriging
